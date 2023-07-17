@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="dishes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="dish" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+				<xs:element name="name"> <!--Element "name" může být pouze string o délce alespoň 1 a nejvýše 50 znaků-->
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:minLength value="1"/>
+							<xs:maxLength value="50"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="cena"> <!--Element "cena" musí být celé číslo v rozmezí od 0 (včetně) do 1000000-->
+					<xs:simpleType> 
+						<xs:restriction base="xs:int">
+							<xs:minInclusive value="0"/>
+							<xs:maxExclusive value="1000000"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="alergeny"> <!--Element "alergeny" může být pouze string o délce nejvýše 200 znaků-->
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:maxLength value="200"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+              <xs:element name="dodavatel" type="xs:string"/>
+				<xs:element name="popis"> <!--Element "popis" musí být string o délce alespoň 1 a nejvýše 1000 znaků-->
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:minLength value="1"/>
+							<xs:maxLength value="1000"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+              <xs:element name="cistyVydelek" type="xs:int"/>
+				<xs:element name="calorie"> <!--Element "calorie" musí být celé číslo v rozmezí od 0 (včetně) do 10000-->
+					<xs:simpleType>
+						<xs:restriction base="xs:int">
+							<xs:minInclusive value="0"/>
+							<xs:maxExclusive value="10000"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+              <xs:element name="zamestaneckaCena" type="xs:int"/>
+              <xs:element name="minPocetZasobyNaDen" type="xs:int"/>
+              <xs:element name="bezlepkovy" type="xs:boolean"/>
+            </xs:sequence>
+            <xs:attribute name="id" type="xs:integer" use="required"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

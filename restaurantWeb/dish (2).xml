@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dishes>
+        <dish id="0">
+                <name>GrilovanaZeleninaNaTortille</name> 
+                <cena>119</cena>
+                <alergeny>SojoveBoby,lepek</alergeny>
+                <dodavatel>Bistro Gourmet</dodavatel>
+                <popis>Grilova paprika, cuketa, lilky a cibulka na tortille s fazolemi, syrem a koriandrovou omackou.</popis>
+                <cistyVydelek>85</cistyVydelek>
+                <calorie>450</calorie>
+                <zamestaneckaCena>105</zamestaneckaCena>
+                <minPocetZasobyNaDen>15</minPocetZasobyNaDen>
+                <bezlepkovy>1</bezlepkovy>
+        </dish>
+        <dish id="1">
+                <name>Svickova</name>
+                <cena>250</cena>
+                <alergeny>Sojove boby, mleko</alergeny>
+                <dodavatel>Argo</dodavatel>
+                <popis>Svickova na smetane</popis>
+                <cistyVydelek>180</cistyVydelek>
+                <calorie>1000</calorie>
+                <zamestaneckaCena>50</zamestaneckaCena>
+                <minPocetZasobyNaDen>60</minPocetZasobyNaDen>
+                <bezlepkovy>1</bezlepkovy>
+        </dish>
+        <dish id="2">
+                <name>Krkovice</name>
+                <cena>300</cena>
+                <alergeny>Mleko</alergeny>
+                <dodavatel>Argo</dodavatel>
+                <popis>Pecena na medu krkovice</popis>
+                <cistyVydelek>230</cistyVydelek>
+                <calorie>1500</calorie>
+                <zamestaneckaCena>60</zamestaneckaCena>
+                <minPocetZasobyNaDen>60</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>
+        </dish>
+        <dish id="3">
+                <name>Pastika</name>
+                <cena>90</cena>
+                <alergeny>0</alergeny>
+                <dodavatel>Nemot</dodavatel>
+                <popis>Kachni pastika s rybizovym Zele</popis>
+                <cistyVydelek>60</cistyVydelek>
+                <calorie>980</calorie>
+                <zamestaneckaCena>10</zamestaneckaCena>
+                <minPocetZasobyNaDen>30</minPocetZasobyNaDen>
+                <bezlepkovy>1</bezlepkovy>
+        </dish>
+        <dish id="4">
+                <name>Biftek</name>
+                <cena>200</cena>
+                <alergeny>Psenice</alergeny>
+                <dodavatel>Argo</dodavatel>
+                <popis>Hovezi Tatarsky Biftek</popis>
+                <cistyVydelek>120</cistyVydelek>
+                <calorie>1000 kcal</calorie>
+                <zamestaneckaCena>25</zamestaneckaCena>
+                <minPocetZasobyNaDen>35</minPocetZasobyNaDen>
+                <bezlepkovy>1</bezlepkovy>
+        </dish>
+        <dish id="5">
+                <name>Lasagne</name>
+                <cena>159</cena>
+                <alergeny>sojove boby, psenice, mleko</alergeny>
+                <dodavatel>Pizza House s.r.o.</dodavatel>
+                <popis>Klasicka lasagne s mletym masem, rajcovou omackou a syrem.</popis>
+                <cistyVydelek>55</cistyVydelek>
+                <calorie>810</calorie>
+                <zamestaneckaCena>120</zamestaneckaCena>
+                <minPocetZasobyNaDen>10</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>
+        </dish>
+        <dish id="6">
+                <name>Sushi rolls</name>
+                <cena>189</cena>
+                <alergeny>rybi maso, sojova omacka, wasabi</alergeny>
+                <dodavatel>Asijska restaurace Kung-Fu</dodavatel>
+                <popis>Ctyri ruzne druhy sushi rollovych zavitku - z lososa, tunaka, krabiho masa a avokada.</popis>
+                <cistyVydelek>75</cistyVydelek>
+                <calorie>520</calorie>
+                <zamestaneckaCena>130</zamestaneckaCena>
+                <minPocetZasobyNaDen>20</minPocetZasobyNaDen>
+                <bezlepkovy>1</bezlepkovy>
+        </dish>
+        <dish id="7">
+                <name>Vegetarianska polevka</name>
+                <cena>69</cena>
+                <alergeny>mleko</alergeny>
+                <dodavatel>Cukrarna a kavarna Pod Lipami</dodavatel>
+                <popis>Jemne vyvarena polevka s cerstvou zeleninou a bylinkami.</popis>
+                <cistyVydelek>35</cistyVydelek>
+                <calorie>210</calorie>
+                <zamestaneckaCena>50</zamestaneckaCena>
+                <minPocetZasobyNaDen>30</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>
+        </dish>
+        <dish id="8">
+                <name>Burger s hranolkami</name>
+                <cena>129</cena>
+                <alergeny>psenice, mleko</alergeny>
+                <dodavatel>Fast Food King</dodavatel>
+                <popis>Velky hovezi burger s cerstvou zeleninou, syrem a omackou, podavany s krupavymi hranolky.</popis>
+                <cistyVydelek>60</cistyVydelek>
+                <calorie>960</calorie>
+                <zamestaneckaCena>90</zamestaneckaCena>
+                <minPocetZasobyNaDen>15</minPocetZasobyNaDen>
+                <bezlepkovy>1</bezlepkovy>
+        </dish>
+        <dish id="10">
+                <name>Grilovany losos se zeleninou</name>
+                <cena>189</cena>
+                <alergeny>ryby</alergeny>
+                <dodavatel>Restaurace Na Plazi</dodavatel>
+                <popis>Cerstvy losos grilovany s bylinkovou omackou a podavany s dusenou zeleninou.</popis>
+                <cistyVydelek>85</cistyVydelek>
+                <calorie>650</calorie>
+                <zamestaneckaCena>140</zamestaneckaCena>
+                <minPocetZasobyNaDen>20</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>
+        </dish>
+        <dish id="11">
+                <name>Cuketove ravioli s rajcaty</name>
+                <cena>159</cena>
+                <alergeny>psenice, vejce, mleko</alergeny>
+                <dodavatel>Italska restaurace Bella Vita</dodavatel>
+                <popis>Cerstve ravioli plnene cuketou a ricottou, podavane s rajcatovou omackou a cerstvou bazalkou.</popis>
+                <cistyVydelek>75</cistyVydelek>
+                <calorie>540</calorie>
+                <zamestaneckaCena>120</zamestaneckaCena>
+                <minPocetZasobyNaDen>30</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>
+        </dish>
+        <dish id="12">
+                <name>Spinatovy salat s krevetami</name>
+                <cena>129</cena>
+                <alergeny>krevety, arasidy</alergeny>
+                <dodavatel>Restaurace Zdrava Volba</dodavatel>
+                <popis>Cerstvy spinatovy salat s krevetami, cherry rajcaty, avokadem a arasidovym dresinkem.</popis>
+                <cistyVydelek>70</cistyVydelek>
+                <calorie>470</calorie>
+                <zamestaneckaCena>110</zamestaneckaCena>
+                <minPocetZasobyNaDen>40</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>       
+        </dish>
+        <dish id="13">
+                <name>Teleci burger s avokadem a cibulovymi krutky</name>
+                <cena>179</cena>
+                <alergeny>gluten, vejce, celer</alergeny>
+                <dodavatel>Burger bar King</dodavatel>
+                <popis>Teleci burger s avokadem, kroupavymi cibulovymi krouzky a krenovym dipem. Podava se s hranolkami.</popis>
+                <cistyVydelek>80</cistyVydelek>
+                <calorie>850</calorie>
+                <zamestaneckaCena>140</zamestaneckaCena>
+                <minPocetZasobyNaDen>15</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>
+        </dish>
+        <dish id="14">
+                <name>Jarni salat s kurecim masem</name>
+                <cena>129</cena>
+                <alergeny>semena, mandle, lepek, mleko</alergeny>
+                <dodavatel>Bistro Na Louce</dodavatel>
+                <popis>Salat s cerstvou zeleninou, kurecim masem, opekanymi mandlemi a cesnekovou dressingem.</popis>
+                <cistyVydelek>60</cistyVydelek>
+                <calorie>540</calorie>
+                <zamestaneckaCena>100</zamestaneckaCena>
+                <minPocetZasobyNaDen>25</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>
+        </dish>
+        <dish id="15">
+                <name>Lasagne s ricottou a listkovym testem</name>
+                <cena>169</cena>
+                <alergeny>lepek, mleko, vajicka</alergeny>
+                <dodavatel>Italska restaurace La Dolce Vita</dodavatel>
+                <popis>Lasagne s ricottou, listkovym testem a rajcatovym raguem. Podava se s cerstvou bazalkou.</popis>
+                <cistyVydelek>75</cistyVydelek>
+                <calorie>750</calorie>
+                <zamestaneckaCena>130</zamestaneckaCena>
+                <minPocetZasobyNaDen>20</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>
+        </dish>
+        <dish id="16">
+                <name>Taco s grilovanym lososem a koriandrovo-limetkovym dipem</name>
+                <cena>189</cena>
+                <alergeny>ryby, lepek, celer</alergeny>
+                <dodavatel>Taco bar El Rey</dodavatel>
+                <popis>Taco plneny grilovanym lososem, cerstvou zeleninou a koriandrovo-limetkovym dipem. Podava se s kroupavymi hranolkami.</popis>
+                <cistyVydelek>85</cistyVydelek>
+                <calorie>680</calorie>
+                <zamestaneckaCena>150</zamestaneckaCena>
+                <minPocetZasobyNaDen>10</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>
+        </dish>
+        <dish id="17">
+                <name>Penne alla carbonara</name>
+                <cena>149</cena>
+                <alergeny>lepek, mleko, vajicka</alergeny>
+                <dodavatel>Ristorante Bella Italia</dodavatel>
+                <popis>Penne s klasickou carbonara omackou z pancetty, vajec, parmezane a smetany. Podava se s cesnakovym chlebem.</popis>
+                <cistyVydelek>70</cistyVydelek>
+                <calorie>890</calorie>
+                <zamestaneckaCena>120</zamestaneckaCena>
+                <minPocetZasobyNaDen>30</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>
+        </dish>
+        <dish id="18">
+                <name>Wrap s marinovanou tofu a zeleninou</name>
+                <cena>119</cena>
+                <alergeny>soja, lepek</alergeny>
+                <dodavatel>Zdravy wrap</dodavatel>
+                <popis>Wrap plneny marinovanou tofu, cerstvou zeleninou a jogurtovym dressingem. Podava se s pestovym salatem.</popis>
+                <cistyVydelek>60</cistyVydelek>
+                <calorie>470</calorie>
+                <zamestaneckaCena>90</zamestaneckaCena>
+                <minPocetZasobyNaDen>20</minPocetZasobyNaDen>
+                <bezlepkovy>1</bezlepkovy>
+        </dish>
+        <dish id="19">
+                <name>Mexicke maso s fazolem a ryzem</name>
+                <cena>149</cena>
+                <alergeny>lepek, soja, celer</alergeny>
+                <dodavatel>Foodtruck El Paso</dodavatel>
+                <popis>Kousky masa s mexickymi korenim, fazolemi a ryzem. Podava se s guacamole a tortilovymi lupinkami.</popis>
+                <cistyVydelek>75</cistyVydelek>
+                <calorie>980</calorie>
+                <zamestaneckaCena>130</zamestaneckaCena>
+                <minPocetZasobyNaDen>25</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>
+        </dish>
+        <dish id="20">
+                <name>Hranolky s tartar omackou</name>
+                <cena>69</cena>
+                <alergeny>vejce, horcice, soja</alergeny>
+                <dodavatel>Fast Food Express</dodavatel>
+                <popis>Krupave hranolky s osvedcenou tartar omackou. Podavaji se v papirove krabice.</popis>
+                <cistyVydelek>45</cistyVydelek>
+                <calorie>540</calorie>
+                <zamestaneckaCena>55</zamestaneckaCena>
+                <minPocetZasobyNaDen>50</minPocetZasobyNaDen>
+                <bezlepkovy>1</bezlepkovy>
+        </dish>
+        <dish id="21">
+                <name>Salat s krevetami a avokadem</name>
+                <cena>169</cena>
+                <alergeny>krevety, soja</alergeny>
+                <dodavatel>Salat bar</dodavatel>
+                <popis>Smes cerstvych listovych salatu s krevetami, avokadem, rajcaty a kousem syra feta. Podava se s cesnakovym chlebem.</popis>
+                <cistyVydelek>85</cistyVydelek>
+                <calorie>620</calorie>
+                <zamestaneckaCena>145</zamestaneckaCena>
+                <minPocetZasobyNaDen>15</minPocetZasobyNaDen>
+                <bezlepkovy>1</bezlepkovy>
+        </dish>
+        <dish id="22">
+                <name>Veganske rizoto s hubami a spenatem</name>
+                <cena>129</cena>
+                <alergeny>orechy</alergeny>
+                <dodavatel>Vegan Bistro</dodavatel>
+                <popis>Rizoto s hubami a spenatem pripravene bez pouzti zivocisnych produktu.</popis>
+                <cistyVydelek>90</cistyVydelek>
+                <calorie>550</calorie>
+                <zamestaneckaCena>89</zamestaneckaCena>
+                <minPocetZasobyNaDen>10</minPocetZasobyNaDen>
+                <bezlepkovy>1</bezlepkovy>
+        </dish>
+        <dish id="23">
+                <name>Bramborova polevka se slaninou</name>
+                <cena>59</cena>
+                <alergeny>mleko</alergeny>
+                <dodavatel>Kavarna U Cervene Zidle</dodavatel>
+                <popis>Kremova bramborova polevka s prskem slaniny.</popis>
+                <cistyVydelek>40</cistyVydelek>
+                <calorie>350</calorie>
+                <zamestaneckaCena>50</zamestaneckaCena>
+                <minPocetZasobyNaDen>15</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>
+        </dish>
+        <dish id="24">
+                <name>Cesnekovy toast se syrem</name>
+                <cena>39</cena>
+                <alergeny>mleko, lepek</alergeny>
+                <dodavatel>Cukrarna A Kavarna Pod Lipami</dodavatel>
+                <popis>Grilovany toast s cesnekovym maslem a syrem.</popis>
+                <cistyVydelek>25</cistyVydelek>
+                <calorie>450</calorie>
+                <zamestaneckaCena>35</zamestaneckaCena>
+                <minPocetZasobyNaDen>20</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>
+        </dish>
+        <dish id="25">
+                <name>Masova rolada s bramborovym salatem</name>
+                <cena>149</cena>
+                <alergeny>vejce</alergeny>
+                <dodavatel>Restaurace Na Kopecku</dodavatel>
+                <popis>Klasicka masova rolada plnena zeleninou a podavana s bramborovym salatem.</popis>
+                <cistyVydelek>110</cistyVydelek>
+                <calorie>650</calorie>
+                <zamestaneckaCena>130</zamestaneckaCena>
+                <minPocetZasobyNaDen>5</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>
+        </dish>
+        <dish id="26">
+                <name>Kureci rizek s bramborovou kasi</name>
+                <cena>129</cena>
+                <alergeny>vejce, lepek</alergeny>
+                <dodavatel>Restaurace U Kozla</dodavatel>
+                <popis>Klasicky kureci rizek v trojobalu s bramborovou kasi.</popis>
+                <cistyVydelek>95</cistyVydelek>
+                <calorie>750</calorie>
+                <zamestaneckaCena>115</zamestaneckaCena>
+                <minPocetZasobyNaDen>10</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>
+        </dish>
+        <dish id="27">
+                <name>Francouzsky toast s ovocem</name>
+                <cena>69</cena>
+                <alergeny>mleko, vejce, lepek</alergeny>
+                <dodavatel>Kavarna Modra Kocka</dodavatel>
+                <popis>Grilovany toast namoceny v protejsek a podavany s cerstvym ovocem a javorovym sirupem.</popis>
+                <cistyVydelek>50</cistyVydelek>
+                <calorie>550</calorie>
+                <zamestaneckaCena>60</zamestaneckaCena>
+                <minPocetZasobyNaDen>15</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>
+        </dish>
+        <dish id="28">
+                <name>Caprese salat s pecivem</name>
+                <cena>189</cena>
+                <alergeny>mleko, lepek</alergeny>
+                <dodavatel>Kavarna A Pekarna U Kolotoca</dodavatel>
+                <popis>Salat s cherry rajcaty, mozzarellou, bazalkou a pestem. Podavany s cerstvym pecivem.</popis>
+                <cistyVydelek>70</cistyVydelek>
+                <calorie>450</calorie>
+                <zamestaneckaCena>80</zamestaneckaCena>
+                <minPocetZasobyNaDen>10</minPocetZasobyNaDen>
+                <bezlepkovy>1</bezlepkovy>
+        </dish>
+        <dish id="29">
+                <name>Lososova rolka s avokadem</name>
+                <cena>280</cena>
+                <alergeny>ryby, soja, lepek</alergeny>
+                <dodavatel>Sushi Bar Tokyo</dodavatel>
+                <popis>Lososova rolka s avokadem a ryzem, podavana s wasabi omackou a pickled zazvoru.</popis>
+                <cistyVydelek>110</cistyVydelek>
+                <calorie>600</calorie>
+                <zamestaneckaCena>135</zamestaneckaCena>
+                <minPocetZasobyNaDen>20</minPocetZasobyNaDen>
+                <bezlepkovy>0</bezlepkovy>       
+        </dish>
+</dishes>

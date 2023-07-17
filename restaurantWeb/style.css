@@ -1,0 +1,135 @@
+html {
+    font-size: 15px;
+}
+
+body {
+    margin: 0;
+    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #ffffff; 
+}
+
+.page {
+    width: 100%;
+    max-width:1600px;
+    margin: 0 auto;
+   
+    background-color: #000; 
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+
+    background-color: #5C3939;
+
+    
+}
+
+.header-nav {
+    margin-right: 10rem;
+    display: flex;
+    justify-content: center;
+}
+
+.header-nav-link {
+    margin-left: 3rem;
+
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+
+    cursor: pointer;
+}
+
+.container {
+    padding: 0 6rem;
+ }
+
+ .title {
+    padding: 1rem;
+    text-align: center;
+    margin-bottom: 5rem;
+ }
+
+ .title.menu {
+    color: #000;
+ }
+
+ .article,
+ .section {
+    display: flex;
+    height: 460px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+ }
+ .article-date {
+    color: #666666;
+ }
+
+ .section.menu {
+    color: #000;
+ }
+
+.side-text {
+    padding-left: 2rem;
+ }
+
+ .menu-color {
+    background-color: #5C3939;
+    padding:0 10rem ;
+    height: 700px;
+ }
+ 
+ .title-hours {
+   text-align: center;
+ }
+
+ .list-hours {
+   text-align: center;
+ }
+
+ .list-hours li {
+   list-style-type: none;
+ }
+
+.contacts {
+   margin: 2rem auto;
+}
+
+.contacts tfoot {
+   text-align: center;
+}
+.massage {
+   padding: 0.5rem;
+}
+
+.contacts a {
+    text-align: center;
+    color: #5C3939;
+    text-decoration: none;
+}
+
+ .footer {
+    padding: 1rem;
+    text-align: center;
+    color: #000;
+
+    background-color: #5C3939;
+ }
+
+
+
+
+ 
+
+
+
